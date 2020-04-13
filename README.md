@@ -1,2 +1,2 @@
 # backgroundcolorchange
-Background Color Change using JS
+Background Color Changer
