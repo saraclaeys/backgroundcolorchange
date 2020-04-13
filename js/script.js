@@ -1,4 +1,4 @@
-let color = ["#84134A", "#FFDD02", "#141518", "#07FB70", "#041E3F", "#F133BE"];
+let color = ["#E81D62", "#9B26AF", "#6639B6", "#009587", "#CCDB38", "#FEC006", "#FE5621"];
 let i = 0;
 document.querySelector("button").addEventListener("click", function () {
     i = i < color.length ? ++i : 0;
