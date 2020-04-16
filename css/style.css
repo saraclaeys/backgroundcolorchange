@@ -8,7 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 body {
-    background-color: #2E8A57;
+    background-color: #00A368;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -34,4 +34,5 @@ button {
     color: white;
     letter-spacing: 2px;
     outline: none;
+    cursor: pointer;
 }
